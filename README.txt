@@ -1,4 +1,4 @@
-This project is a simple maze solver.  It uses Java (v1.8.0) and Maven (v3.5.0) to compile and execute.
+This project is a simple maze solver.  It uses Java (v1.8.0) and Maven (v3.6.3) to compile and execute.
 
 The main source file is src/main/java/Maze.java, and an example of how to use it is src/main/java/Example.java.  The tests for Maze are in src/test/java/MazeTest.java.
 
